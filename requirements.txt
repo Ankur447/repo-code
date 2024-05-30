@@ -1,0 +1,11 @@
+colorlog==6.7.0
+fonttools==4.39.4
+kiwisolver==1.4.4
+matplotlib==3.7.1
+more-itertools==9.1.0
+numpy==1.24.3
+Pillow==9.5.0
+pyparsing==3.0.9
+pyserial==3.5
+rq==1.15.0
+svgpathtools==1.6.1
